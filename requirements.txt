@@ -1,0 +1,53 @@
+# Core ML Libraries
+scikit-learn>=1.3.0
+xgboost>=2.0.0
+numpy>=1.24.0
+pandas>=2.0.0
+scipy>=1.11.0
+
+# Feature Engineering
+nltk>=3.8
+regex>=2023.0.0
+
+# Model Explanation
+shap>=0.42.0
+lime>=0.2.0
+
+# Visualization
+matplotlib>=3.7.0
+seaborn>=0.12.0
+plotly>=5.14.0
+
+# Web Framework & API
+gradio>=4.0.0
+streamlit>=1.28.0
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.0.0
+
+# CLI
+click>=8.1.0
+rich>=13.0.0
+typer>=0.9.0
+
+# Data Processing
+tqdm>=4.65.0
+joblib>=1.3.0
+
+# Testing
+pytest>=7.4.0
+pytest-cov>=4.1.0
+
+# Code Quality
+black>=23.0.0
+flake8>=6.0.0
+isort>=5.12.0
+
+# Utilities
+python-dotenv>=1.0.0
+pyyaml>=6.0
+requests>=2.31.0
+
+# Dataset Collection (optional)
+beautifulsoup4>=4.12.0
+selenium>=4.15.0
