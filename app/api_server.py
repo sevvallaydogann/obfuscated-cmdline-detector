@@ -1,9 +1,3 @@
-"""
-REST API Server using FastAPI
-
-Provides RESTful endpoints for command detection.
-"""
-
 from fastapi import FastAPI, HTTPException, File, UploadFile
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
